@@ -1,0 +1,15 @@
+Gamer :390
+Huy:40
+Huong:30
+Son:30
+Gamer:30
+Son:20
+Tai:20
+Hang:10
+t:0
+Robot:0
+Tai:0
+Tafi:0
+Gamer:0
+1:0
+a:0
