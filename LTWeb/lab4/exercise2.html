@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Equation</title>
+    <link rel="stylesheet" href="css/exercise2.css">
+    <script src="js/ex2.js"></script>
+</head>
+<body>
+<div id="container">
+    <form id="content">
+        <div class="format">
+            <p>Nhập a:</p>
+            <input  id="input_a" type="text" name="input-a" >
+
+        </div>
+
+        <div class="format">
+            <p>Nhập b:</p>
+            <input id="input_b"type="text" name="input-b">
+        </div>
+        <div class="format">
+            <p>Nhập c:</p>
+            <input id="input_c"type="text" name="input-c">
+        </div>
+        <div class="format1">
+             <p>Phương trình bạn đã nhập là:</p>
+
+            <input id="view_equation" type="text" name="view" readonly="readonly">
+            <input type="button" id="press" value="Result" onclick="getContent()" >
+        </div>
+        <div class="format1 format2">
+            <p>Nghiệm phương trình:</p>
+            <input id="result"type="text" name="vieww-result">
+        </div>
+
+    </form>
+
+</div>
+
+</body>
+</html>
