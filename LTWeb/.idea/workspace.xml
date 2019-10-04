@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c71849bf-c91b-4c81-b355-cb5f79f141c9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QdapQV9NyClZvPJaix5pMSgRQD" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LTWeb\lab2" />
+      <recent name="D:\LTWeb\img" />
+      <recent name="D:\LTWeb\page b" />
+      <recent name="D:\LTWeb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LTWeb\lab4\css" />
+      <recent name="D:\LTWeb\middleExame" />
+      <recent name="D:\LTWeb\lab3" />
+      <recent name="D:\LTWeb\lab1" />
+      <recent name="D:\LTWeb\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="clock.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="clock.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.clock.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c71849bf-c91b-4c81-b355-cb5f79f141c9" name="Default Changelist" comment="" />
+      <created>1568103109773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568103109773</updated>
+      <workItem from="1568103117303" duration="2994000" />
+      <workItem from="1568109527836" duration="12923000" />
+      <workItem from="1568198402482" duration="9209000" />
+      <workItem from="1568247269334" duration="5995000" />
+      <workItem from="1568369657043" duration="20452000" />
+      <workItem from="1568530493011" duration="9935000" />
+      <workItem from="1568540545581" duration="8128000" />
+      <workItem from="1568591015182" duration="1468000" />
+      <workItem from="1568601753305" duration="1687000" />
+      <workItem from="1568612744796" duration="809000" />
+      <workItem from="1568622520179" duration="9358000" />
+      <workItem from="1568705893905" duration="1890000" />
+      <workItem from="1568729687059" duration="4228000" />
+      <workItem from="1568819508171" duration="1384000" />
+      <workItem from="1568851825388" duration="5853000" />
+      <workItem from="1568881761217" duration="4525000" />
+      <workItem from="1568888917984" duration="19997000" />
+      <workItem from="1568969745944" duration="25059000" />
+      <workItem from="1569076465204" duration="8991000" />
+      <workItem from="1569106821160" duration="21108000" />
+      <workItem from="1569163184284" duration="10067000" />
+      <workItem from="1569195280357" duration="26665000" />
+      <workItem from="1569234731521" duration="2996000" />
+      <workItem from="1569295091374" duration="786000" />
+      <workItem from="1569310490273" duration="2506000" />
+      <workItem from="1569317842953" duration="7007000" />
+      <workItem from="1569337051048" duration="5511000" />
+      <workItem from="1569405759330" duration="11126000" />
+      <workItem from="1569427596823" duration="12112000" />
+      <workItem from="1569492496328" duration="11322000" />
+      <workItem from="1569580026188" duration="3800000" />
+      <workItem from="1569591770588" duration="3904000" />
+      <workItem from="1569601358456" duration="166000" />
+      <workItem from="1569602299036" duration="10000" />
+      <workItem from="1569626457566" duration="5068000" />
+      <workItem from="1569677386813" duration="32886000" />
+      <workItem from="1569834340096" duration="3164000" />
+      <workItem from="1569854200384" duration="3652000" />
+      <workItem from="1569915111539" duration="5371000" />
+      <workItem from="1569926171633" duration="11783000" />
+      <workItem from="1570027204134" duration="6225000" />
+      <workItem from="1570060382977" duration="99000" />
+      <workItem from="1570113691155" duration="10767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
