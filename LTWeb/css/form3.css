@@ -1,0 +1,279 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Tahoma sans-serif;
+    background-color: #88bdfd;
+
+}
+p {
+    color: yellowgreen;
+    font-weight: bold;
+}
+#container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 650px;
+    height:810px;
+    background-color: #dadada;
+    margin: auto;
+
+}
+form {
+    background-color: white;
+    width: 94%;
+    height: 790px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+#account {
+    width: 80%;
+    height: 300px;
+    margin: auto;
+
+}
+#account #content_account {
+    width: 460px;
+    margin: auto;
+    padding-top: 20px;
+
+}
+#account .account1{
+    width: 460px;
+    height: 60px;
+    margin: auto;
+    background-color: #dadada;
+    border-radius: 5px;
+    border: 1px solid #adccb3;
+
+}
+.text_field {
+    width: 96%;
+    height: 45px;
+    float: right;
+    margin-top: 5px;
+    border: none;
+    background-color: #dadada;
+    color: #aaaaaa;
+
+ }
+#account .account2{
+    width: 460px;
+    height: 60px;
+    margin: auto;
+    margin-top: 12px;
+    background-color: #dadada;
+    border-radius: 5px;
+    border: 1px solid #adccb3;
+
+}
+.element {
+    height: 60px;
+    width: 88%;
+    float: right;
+
+
+}
+#account .account3{
+    width: 460px;
+    height: 60px;
+    margin: auto;
+    margin-top: 12px;
+    background-color: #dadada;
+    border-radius: 5px;
+    border: 1px solid #adccb3;
+
+}
+.element1 {
+    width: 50px;
+    height: 45px;
+    float: left;
+    margin-top: 8px;
+    border-right: 1px solid #aaaaaa;
+
+}
+.fa {
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 16px;
+    color: #aaaaaa;
+
+}
+
+#information {
+    width: 80%;
+    height: 100px;
+    margin: auto;
+
+}
+#information #content_if {
+    width: 460px;
+    height: 100px;
+    margin: auto;
+
+}
+#information #content_if #left_if {
+    float: left;
+    width: 50%;
+
+}
+#information #content_if #left_if .if{
+    height: 46px;
+    border-radius: 5px;
+    background-color: #dadada;
+    border: 1px groove #adccb3;
+    text-align: center;
+    color: #aaaaaa;
+
+}
+#information #content_if #left_if .fomat1{
+    width: 60px;
+
+}
+#information #content_if #left_if .margin2 {
+    margin-left: 5px;
+
+}
+#information #content_if #left_if .fomat2 {
+    width: 70px;
+
+}
+#information #content_if #right_if {
+    float: right;
+    width: 50%;
+    overflow: auto;
+}
+#right_if .fomat3 {
+    height: 50px;
+    width: 115px;
+    float: left;
+    color: #aaaaaa;
+
+}
+#payment {
+    width: 80%;
+    height: 260px;
+    margin: auto;
+
+}
+#payment #content_pay {
+    width: 460px;
+    height: 230px;
+    margin: auto;
+    margin-bottom: 10px;
+
+}
+#payment #content_pay #pay {
+    background-color: coral;
+    height: 60px;
+    width: 460px;
+
+
+}
+#payment #content_pay #pay .button1{
+    width: 50%;
+    height: 60px;
+    float: left;
+    color: #aaaaaa;
+
+
+}
+#payment #content_pay #pay .fa-cc-visa {
+    position: absolute;
+    margin-left: 55px;
+    margin-top: 20px;
+    color: white;
+
+}
+#payment #content_pay #pay .fa-cc-paypal {
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 20px;
+
+
+}
+#payment #content_pay #pay .changeColor {
+    background-color: yellowgreen;
+    color: white;
+
+}
+#button1 {
+    float: left;
+}
+#button2 {
+    float: right;
+}
+
+#option {
+    width: 460px;
+    height: 60px;
+    margin: auto;
+    background-color: #dadada;
+    border-radius: 5px;
+    border: 1px solid #adccb3;
+    margin-top: 12px;
+
+}
+
+#content_payfooter {
+    height: 80px;
+    margin-top: 12px;
+
+}
+#content_payfooter #left_pay {
+    background-color: #dadada;
+    width: 50%;
+    height: 68px;
+    float: left;
+    margin-top: 6px;
+    border-radius: 5px;
+
+}
+#content_payfooter #left_pay input {
+    width: 66%;
+    height: 55px;
+    float: right;
+    margin-right: 2px;
+    margin-top: 3px;
+    border: none;
+    background-color: #dadada;
+    color: #aaaaaa;
+
+}
+#content_payfooter #right_pay {
+    width: 50%;
+    height: 68px;
+    float: right;
+    margin-top: 6px;
+
+}
+#content_payfooter .format4 {
+    width: 48%;
+    height: 66px;
+    float: left;
+    border-radius: 5px;
+    padding-left: 5px;
+
+}
+
+#content_payfooter .margin3 {
+    margin-left: 8px;
+}
+#rules {
+    width: 80%;
+    height: 80px;
+    margin: auto;
+
+
+}
+#rules #content_rule {
+    width: 460px;
+    margin: auto;
+    color: #aaaaaa;
+
+}
