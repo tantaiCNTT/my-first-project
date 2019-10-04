@@ -1,0 +1,138 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+
+
+}
+#color {
+    width: 800px ;
+    height: 750px;
+    background: linear-gradient(to right,#2196f3ba,#9c27b0b8);
+
+}
+#container {
+    height: 750px;
+    width: 800px;
+    margin: auto;
+}
+#content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: whitesmoke;
+    width: 350px;
+    height: 650px;
+    margin: auto;
+    border-radius: 5px;
+}
+#header {
+    height: 120px;
+}
+#header #content_header {
+    width: 100px;
+    padding-top: 50px;
+    margin: auto;
+}
+#header h1{
+  text-align: center;
+}
+#form_content {
+    height: 250px;
+    width: 300px;
+    margin: auto;
+}
+#form_content #user{
+   width: 250px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding: 4px;
+    padding-left: 15px;
+    border: none;
+    color:#333333;
+    font-weight: bold;
+    font-size: 16px;
+    box-shadow: 0px 0px 10px 10px #dadada;
+}
+#form_content #password {
+    width: 250px;
+    height: 50px;
+    margin-top: 20px;
+    padding: 4px;
+    margin-left: 15px;
+    padding-left: 15px;
+    border: none;
+    color:#333333;
+    font-weight: bold;
+    border-radius: 15px;
+    font-size: 16px;
+    box-shadow: 0px 0px 10px 10px #dadada;
+}
+#form_content #sign_in {
+    height: 40px;
+    width: 150px;
+    background-color: #be58d8;
+    margin-top: 20px;
+    margin-left: 75px;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    border: #be58d8;
+    outline-style: none;
+    box-shadow: 5px 5px 20px 0px #be58d8;
+}
+#other_content {
+    height: 150px;
+}
+#other_content #text_content {
+    height: 30px;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+#other_content #text_content p {
+    font-size: 18px;
+    color: #aaaaaa;
+}
+#other_content #icon_href {
+    height: 80px;
+    width: 250px;
+    /*background-color: #2dc0e8;*/
+    margin: auto;
+}
+#other_content #icon_href li {
+    float: left;
+    margin-left: 15px;
+    list-style-type: none;
+}
+#other_content #icon_href #facebook {
+    box-shadow: 0px 0px 10px 10px #dadada;
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+
+}
+#other_content #icon_href #google {
+    width: 50px;
+    height: 50px;
+    box-shadow: 0px 0px 10px 10px #dadada;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+#footer {
+    height: 60px;
+    width: 40%;
+    margin: auto;
+}
+#footer p{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 25px;
+}
