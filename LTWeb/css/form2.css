@@ -1,0 +1,174 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Tahoma,sans-serif;
+    background-color: #88bdfd;
+}
+#container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 60%;
+    height: 700px;
+    margin: auto;
+
+}
+#content {
+    background-color: white;
+    width: 800px;
+    height: 95%;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 10px;
+
+}
+#content h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+#content form {
+    height: 480px;
+    width: 90%;
+    margin: auto;
+}
+#content form #full-name {
+    height: 70px;
+    width: 98%;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    border: 2px solid #dadada;
+}
+#content form #full-name #text_yourname {
+    height: 40px;
+    width: 98%;
+    margin: auto;
+    border: none;
+    margin-top: 4px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: #dadada;
+}
+#content form #email_phone {
+    height: 100px;
+    width: 99%;
+    overflow: auto;
+    margin: auto;
+
+}
+#content form #email_phone #email {
+    width: 45%;
+    height: 70px;
+    float: left;
+    overflow: auto;
+     margin-top: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    border: 2px solid #dadada;
+    font-weight: bold;
+
+
+
+}
+#content form #email_phone #phone {
+    width: 45%;
+    height: 70px;
+    margin-top: 10px;
+    float: right;
+    overflow: auto;
+    border-radius: 10px;
+    padding: 5px;
+    border: 2px solid #dadada;
+    font-weight: bold;
+}
+#content form #email_phone .input-data {
+    height: 40px;
+    width: 300px;
+    margin: auto;
+    border: none;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: #dadada;
+}
+ #service {
+    width: 98%;
+    height: 70px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 5px;
+     border: 2px solid #dadada;
+    font-weight: bold;
+     position: relative;
+
+
+}
+#content form #service :after {
+    content: '<>';
+    font: 17px "Consolas", monospace;
+    color: #333;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    top: 35px;
+    right: 25px;
+    padding: 0 0 2px;
+    border-bottom: 1px solid #999;
+    position: absolute;
+    pointer-events: none;
+}
+#content form #service select {
+    width: 98%;
+    height: 40px;
+    margin-top: 5px;
+    border: none;
+     font-size: 20px;
+    font-weight: bold;
+    -webkit-appearance: none;
+    /*-moz-appearance: none;*/
+    /*appearance: none;*/
+    /*-ms-word-break: normal;*/
+    /*word-break: normal;*/
+}
+#content form #message {
+    width: 98%;
+    height: 150px;
+    margin: auto;
+    border-radius: 10px;
+    padding:5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 2px solid #dadada;
+    font-weight: bold;
+}
+#content form #message #text_area {
+    width: 98%;
+    height: 120px;
+    border: none;
+    font-size: 20px;
+    color: #dadada;
+}
+#content form #submit {
+    height: 60px;
+}
+#content form #submit input {
+    background-color: black;
+    color: white;
+    width: 98%;
+    height: 45px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 20px;
+    border: none;
+
+}
+#content form #submit #arrow p{
+    content: "\2192";
+    background-color: #88bdfd;
+}
