@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercise1</title>
+    <link rel="stylesheet" href="css/exercise1.css">
+
+</head>
+<body id="background">
+ <div id="container" >
+     <button class="green" onclick="changeColor('green')">Green</button>
+     <button id="blue" onclick="changeColor('blue')">Blue</button>
+     <button  id="red" onclick="changeColor('red')">Red</button>
+     <button id="pink" onclick="changeColor('pink')">Pink</button>
+     <button  id="violet" onclick="changeColor('violet')">Violet</button>
+ </div>
+ <script>
+     function changeColor(color) {
+         document.getElementById("background").style.backgroundColor = color;
+     }
+
+ </script>
+</body>
+</html>
