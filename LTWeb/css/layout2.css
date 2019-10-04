@@ -1,0 +1,56 @@
+
+body {
+    background-color: beige;
+}
+#container {
+    background-color: darkgray;
+    width: 1200px;
+    overflow: auto;
+    margin: auto;
+    font-family: "Baskerville Old Face ";
+    font-size: 40px;
+
+
+}
+#header {
+    background-color: darkcyan;
+    height: 80px;
+    text-align: center;
+
+
+
+}
+#nav {
+    background-color: darkkhaki;
+    height: 80px;
+    text-align: center;
+}
+#content {
+    background-color: #88bdfd;
+    height: 350px;
+
+}
+#content #left {
+    background-color: darkred;
+    width: 30%;
+    float: left;
+    height: 350px;
+    text-align: center;
+
+}
+#content #right {
+    background-color: green;
+    width: 70%;
+    float: right;
+    height: 350px;
+    text-align: center;
+
+}
+#footer {
+    background-color: darkgray;
+    text-align: center;
+}
+/*header 80px
+nav 35-50px
+footer 8-px*
+margin/
