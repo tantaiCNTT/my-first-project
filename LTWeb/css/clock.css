@@ -1,0 +1,72 @@
+body {
+    /*background: lightgoldenrodyellow;*/
+}
+
+#container {
+    background-color: #88bdfd;
+    width: 600px;
+    height: 600px;
+    margin:auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+#content1 {
+    background-color: black;
+    width: 380px;
+    height: 90px;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 30px;
+    margin-top: 5px;
+
+}
+#clock {
+    color: red;
+    font-size: 60px;
+    font-family: Tahoma sans-serif;
+    background-color: #d0f1fa;
+    width: 360px;
+    height: 80px;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+}
+#content2 {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 30px;
+
+
+
+}
+#analog_clock {
+  width: 80%;
+    height: 80%;
+    margin: auto;
+    background-color: #f77825;
+    border-radius: 50%;
+    border: 5px solid black;
+    box-shadow: 0 0 20px 0 black;
+    position: relative;
+}
+.num {
+    height: 100%;
+    position: absolute;
+    left: calc(50%- 0.5cm);
+}
+.num div{
+    width: 1em;
+    line-height: 2em;
+    color: black;
+    text-align: center;
+    vertical-align: middle;
+}
+.num1 {
+    transform: rotate(30deg);
+}
+.num1 div{
+    transform: rotate(-30deg);
+}
