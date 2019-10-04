@@ -1,0 +1,54 @@
+
+body {
+    background-color: beige;
+}
+#container {
+
+    width: 900px;
+    overflow: auto;
+    margin: auto;
+    font-family: "Baskerville Old Face ";
+    font-size: 20px;
+    font-family: "Cambria Math";
+    font-size: 20px;
+    color: snow;
+    position: relative;
+}
+#container #header {
+
+    background-color: tan;
+    height: 120px;
+    text-align: center;
+}
+#container #nav {
+    background-color: darkgray;
+    height: 400px;
+    text-align: center;
+
+}
+
+#container #content {
+    height: 800px;
+    overflow: auto;
+}
+#container #content .div1 {
+    background-color: darkgray;
+    width: 180px;
+    height: 220px;
+    padding: 20px  ;
+    margin: 30px;
+    float: left;
+    border: 2px solid black;
+    text-align: center;
+}
+#container #content #service {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+#container #footer {
+    background-color: steelblue;
+    text-align: center;
+}
+
+
