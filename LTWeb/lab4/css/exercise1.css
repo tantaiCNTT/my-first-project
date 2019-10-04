@@ -1,0 +1,18 @@
+#container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 600px;
+    height: 60px;
+    margin: auto;
+
+}
+#container button {
+    width: 100px;
+    height: 50px;
+    margin-left: 12px;
+}
+#container #green:hover {
+    background-color: green;
+}
