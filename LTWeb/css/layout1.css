@@ -1,0 +1,26 @@
+table ,td{
+    width: 40%;
+    overflow: auto;
+    margin: auto;
+    border: 1px solid darkslateblue;
+
+
+}
+#td1 {
+    background-color: darkgray;
+}
+#td2 {
+    width: 20%;
+    height: 200px;
+    background-color: khaki;
+}
+#td3 {
+    width: 80%;
+    height: 200px;
+    background-color: beige;
+}
+#td4 {
+    background-color: darkgray;
+}
+
+
