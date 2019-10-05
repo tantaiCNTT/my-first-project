@@ -1,0 +1,42 @@
+
+body {
+    background: linear-gradient(to right, #ff0000f7,#00d7ffa6);
+    height: 100%;
+    width: 100%;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+#container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    overflow: auto;
+    background-color: dimgrey;
+    width: 355px;
+    border: 1px solid black;
+    padding: 30px;
+}
+form {
+    text-align: left;
+}
+#textview {
+    width: 345px;
+    height: 50px;
+    margin: auto;
+    font-size: 20px;
+    text-align: end;
+}
+.button {
+    width: 80px;
+    height: 80px;
+    margin: 2px;
+    cursor: pointer;
+    font-family: "Bookman Old Style";
+    font-size: 25px;
+    color: black;
+    background-color: lightsteelblue;
+}
