@@ -1,0 +1,26 @@
+
+#container {
+    position: absolute;
+    top :50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: blue;
+    width: 800px;
+    height: 750px;
+    margin: auto;
+}
+#content {
+    background-color: lightsteelblue;
+    width: 700px;
+    height: 700px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+button {
+    width: 75px;
+    height: 75px;
+    margin: 6px;
+    font-weight: bold;
+    font-size: 20px;
+}
