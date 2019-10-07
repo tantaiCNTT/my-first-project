@@ -1,0 +1,19 @@
+
+#container {
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    background-color: rosybrown;
+
+}
+#img-center {
+    width: 450px;
+    height :450px;
+    margin-left: 80px;
+    margin-top: 80px;
+
+}
