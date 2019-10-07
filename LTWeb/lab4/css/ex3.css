@@ -1,0 +1,18 @@
+
+#content {
+    background-color: lightsteelblue;
+    width: 900px;
+    height: 400px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+}
+p {
+    text-align: center;
+    font-size: 120px;
+    color: red;
+    font-family: Tahoma sans-serif;
+    text-shadow: 4px 3px 2px black;
+}
