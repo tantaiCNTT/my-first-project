@@ -32,10 +32,7 @@ function createButton() {
         button.innerHTML=text_name;
         getContairn.appendChild(button);
         count++;
-
-
     }
-
     // add onclick for all button
     var children = getContairn.children;
     for( let i = 0; i < 64; i++) {
@@ -48,21 +45,9 @@ function createButton() {
             } else {
                 alert("It is'nt smallest!")
             }
-
         })
     }
-
-
-
-
-
-
-
-
-
 }
-
-
 function checkMin(input, arr) {
     arr.sort( function (a, b) {
         return a - b;
@@ -71,7 +56,6 @@ function checkMin(input, arr) {
 
         return true;
     }
-
     return false;
 }
 randomButton();
